@@ -72,43 +72,43 @@ The global **Privileged Access Management (PAM) and Cloud Root Governance market
 
 *Self-hosted open-source tools for privileged access control, secrets vaulting, identity federation, and root account session management.*
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Keycloak](https://github.com/keycloak/keycloak)** [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) 🔐  
-  **Open-source identity and access management**, Apache-2.0 licensed. **24.5K+ GitHub stars**. Provides Single Sign-On (SSO), OpenID Connect (OIDC), SAML 2.0, identity brokering, and fine-grained access control for enterprise IAM and privileged workflows.
+  **Open-source identity and access management**, Apache-2.0 licensed. **24.5K+ GitHub_Stars**. Provides Single Sign-On (SSO), OpenID Connect (OIDC), SAML 2.0, identity brokering, and fine-grained access control for enterprise IAM and privileged workflows.
 
 - **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** [![Stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social&color=white)](https://github.com/dani-garcia/vaultwarden/stargazers) 🏰  
-  **Lightweight Bitwarden-compatible server in Rust**, GPL-3.0 licensed. **42.1K+ GitHub stars**. Self-hostable password and secret vault ideal for small teams needing secure, encrypted storage of cloud root credentials and recovery keys.
+  **Lightweight Bitwarden-compatible server in Rust**, GPL-3.0 licensed. **42.1K+ GitHub_Stars**. Self-hostable password and secret vault ideal for small teams needing secure, encrypted storage of cloud root credentials and recovery keys.
 
 - **[Teleport](https://github.com/gravitational/teleport)** [![Stars](https://img.shields.io/github/stars/gravitational/teleport?style=social&color=white)](https://github.com/gravitational/teleport/stargazers) 🚀  
-  **The leading open-source privileged access management platform**, AGPL-3.0 licensed. **17.2K+ GitHub stars**. Provides unified zero-trust access to SSH, Kubernetes, cloud databases, AWS consoles, and web applications using short-lived X.509/SSH certificates and session recording.
+  **The leading open-source privileged access management platform**, AGPL-3.0 licensed. **17.2K+ GitHub_Stars**. Provides unified zero-trust access to SSH, Kubernetes, cloud databases, AWS consoles, and web applications using short-lived X.509/SSH certificates and session recording.
 
 - **[Authentik](https://github.com/goauthentik/authentik)** [![Stars](https://img.shields.io/github/stars/goauthentik/authentik?style=social&color=white)](https://github.com/goauthentik/authentik/stargazers) 🎨  
-  **Open-source identity provider for unified authentication**, MIT licensed. **14.8K+ GitHub stars**. Features flexible authentication pipelines, multi-factor authentication (MFA), user lifecycle management, and protocol support for OIDC, SAML, LDAP, and RADIUS.
+  **Open-source identity provider for unified authentication**, MIT licensed. **14.8K+ GitHub_Stars**. Features flexible authentication pipelines, multi-factor authentication (MFA), user lifecycle management, and protocol support for OIDC, SAML, LDAP, and RADIUS.
 
 - **[Authelia](https://github.com/authelia/authelia)** [![Stars](https://img.shields.io/github/stars/authelia/authelia?style=social&color=white)](https://github.com/authelia/authelia/stargazers) 🔑  
-  **Lightweight authentication and authorization server**, Apache-2.0 licensed. **19.5K+ GitHub stars**. Adds two-factor authentication (2FA) and Single Sign-On (SSO) to web portals and cloud management dashboards via reverse proxies (Traefik, NGINX, Caddy).
+  **Lightweight authentication and authorization server**, Apache-2.0 licensed. **19.5K+ GitHub_Stars**. Adds two-factor authentication (2FA) and Single Sign-On (SSO) to web portals and cloud management dashboards via reverse proxies (Traefik, NGINX, Caddy).
 
 - **[OpenBao](https://github.com/openbao/openbao)** [![Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers) 🏛️  
-  **Open-source, community-governed secrets management engine**, MPL-2.0 licensed. **4.2K+ GitHub stars**. Managed under the Linux Foundation's OpenSSF as a community fork of Vault, providing dynamic secret generation, PKI certificate management, and data encryption.
+  **Open-source, community-governed secrets management engine**, MPL-2.0 licensed. **4.2K+ GitHub_Stars**. Managed under the Linux Foundation's OpenSSF as a community fork of Vault, providing dynamic secret generation, PKI certificate management, and data encryption.
 
 - **[FreeIPA](https://github.com/freeipa/freeipa)** [![Stars](https://img.shields.io/github/stars/freeipa/freeipa?style=social&color=white)](https://github.com/freeipa/freeipa/stargazers) 🐧  
-  **Integrated identity management for Linux/Unix environments**, GPL-3.0 licensed. **1.8K+ GitHub stars**. Combines 389 Directory Server (LDAP), MIT Kerberos, Dogtag Certificate System, NTP, and DNS for centralized identity, domain governance, and sudo access control.
+  **Integrated identity management for Linux/Unix environments**, GPL-3.0 licensed. **1.8K+ GitHub_Stars**. Combines 389 Directory Server (LDAP), MIT Kerberos, Dogtag Certificate System, NTP, and DNS for centralized identity, domain governance, and sudo access control.
 
 - **[Kanidm](https://github.com/kanidm/kanidm)** [![Stars](https://img.shields.io/github/stars/kanidm/kanidm?style=social&color=white)](https://github.com/kanidm/kanidm/stargazers) 🦀  
-  **Modern fast identity management platform written in Rust**, MPL-2.0 licensed. **2.9K+ GitHub stars**. Designed for high performance, memory safety, and modern auth standards including WebAuthn, Passkeys, OAuth2, OIDC, and LDAP identity resolution.
+  **Modern fast identity management platform written in Rust**, MPL-2.0 licensed. **2.9K+ GitHub_Stars**. Designed for high performance, memory safety, and modern auth standards including WebAuthn, Passkeys, OAuth2, OIDC, and LDAP identity resolution.
 
 - **[OpenLDAP](https://github.com/openldap/openldap)** [![Stars](https://img.shields.io/github/stars/openldap/openldap?style=social&color=white)](https://github.com/openldap/openldap/stargazers) 📁  
-  **Foundational open-source LDAP directory server**, OpenLDAP Public License. **850+ GitHub stars**. The battle-tested directory service underpinning traditional PAM integrations, user directories, and central authentication backends.
+  **Foundational open-source LDAP directory server**, OpenLDAP Public License. **850+ GitHub_Stars**. The battle-tested directory service underpinning traditional PAM integrations, user directories, and central authentication backends.
 
 - **[Boundary](https://github.com/hashicorp/boundary)** [![Stars](https://img.shields.io/github/stars/hashicorp/boundary?style=social&color=white)](https://github.com/hashicorp/boundary/stargazers) 🌐  
-  **Identity-based infrastructure access management**, MPL-2.0 licensed. **4.8K+ GitHub stars**. Enables fine-grained, dynamic access to private cloud hosts and services based on user identity without exposing internal networks.
+  **Identity-based infrastructure access management**, MPL-2.0 licensed. **4.8K+ GitHub_Stars**. Enables fine-grained, dynamic access to private cloud hosts and services based on user identity without exposing internal networks.
 
 - **[Infisical](https://github.com/Infisical/infisical)** [![Stars](https://img.shields.io/github/stars/Infisical/infisical?style=social&color=white)](https://github.com/Infisical/infisical/stargazers) ⚡  
-  **Open-source secret management platform**, MIT licensed. **15.4K+ GitHub stars**. Centralizes cloud keys, environment variables, API credentials, and root secrets with role-based access control and developer workflow integration.
+  **Open-source secret management platform**, MIT licensed. **15.4K+ GitHub_Stars**. Centralizes cloud keys, environment variables, API credentials, and root secrets with role-based access control and developer workflow integration.
 
 - **[Bitwarden Server](https://github.com/bitwarden/server)** [![Stars](https://img.shields.io/github/stars/bitwarden/server?style=social&color=white)](https://github.com/bitwarden/server/stargazers) 🛡️  
-  **Official core backend for Bitwarden**, AGPL-3.0 licensed. **15.1K+ GitHub stars**. Enterprise-grade open-source credential vaulting for managing cloud organization secrets, master credentials, and recovery keys.
+  **Official core backend for Bitwarden**, AGPL-3.0 licensed. **15.1K+ GitHub_Stars**. Enterprise-grade open-source credential vaulting for managing cloud organization secrets, master credentials, and recovery keys.
 
 ---
 
@@ -151,3 +151,12 @@ If you find this cloud root account management directory useful, please consider
 <p align="center">
   <b>Made with ❤️ for cloud security architects, PAM engineers, and open-source advocates.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Cloud-Root-Account-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Cloud-Root-Account-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Cloud-Root-Account-Management_growth.svg">
+  </picture>
+</a>
